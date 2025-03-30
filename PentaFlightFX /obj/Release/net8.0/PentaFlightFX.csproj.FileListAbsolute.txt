@@ -1,0 +1,13 @@
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /bin/Release/net8.0/PentaFlightFX.deps.json
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /bin/Release/net8.0/PentaFlightFX.dll
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /bin/Release/net8.0/PentaFlightFX.pdb
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFlightFX.csproj.AssemblyReference.cache
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFlightFX.GeneratedMSBuildEditorConfig.editorconfig
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFlightFX.AssemblyInfoInputs.cache
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFlightFX.AssemblyInfo.cs
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFlightFX.csproj.CoreCompileInputs.cache
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFli.289531E2.Up2Date
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFlightFX.dll
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/refint/PentaFlightFX.dll
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/PentaFlightFX.pdb
+/home/demonck/projects/csharp/PentaFlightFX /PentaFlightFX /obj/Release/net8.0/ref/PentaFlightFX.dll
